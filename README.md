@@ -1,1 +1,1 @@
-# budly-privacy
+# eigno-privacy
